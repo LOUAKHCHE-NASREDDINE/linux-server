@@ -1,4 +1,3 @@
-# linux-server
 # Install MySQL server:
 sudo apt install mysql-server
 
@@ -26,4 +25,7 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'nasser18
 
 FLUSH PRIVILEGES;
 # This command reloads the grant tables in MySQL, applying any changes made to the user permissions.
+
+
+
 
